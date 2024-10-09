@@ -1,0 +1,2 @@
+# Pratik-Ilk-Metot-Uygulamasi
+ 
