@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Pratik-Ilk-Metot-Uygulamamiz\Pratik-Ilk-Metot-Uygulamamiz\bin\Debug\net8.0\Pratik-Ilk-Metot-Uygulamamiz.exe
+C:\Users\Orkun\source\repos\Pratik-Ilk-Metot-Uygulamamiz\Pratik-Ilk-Metot-Uygulamamiz\bin\Debug\net8.0\Pratik-Ilk-Metot-Uygulamamiz.deps.json
+C:\Users\Orkun\source\repos\Pratik-Ilk-Metot-Uygulamamiz\Pratik-Ilk-Metot-Uygulamamiz\bin\Debug\net8.0\Pratik-Ilk-Metot-Uygulamamiz.runtimeconfig.json
+C:\Users\Orkun\source\repos\Pratik-Ilk-Metot-Uygulamamiz\Pratik-Ilk-Metot-Uygulamamiz\bin\Debug\net8.0\Pratik-Ilk-Metot-Uygulamamiz.dll
+C:\Users\Orkun\source\repos\Pratik-Ilk-Metot-Uygulamamiz\Pratik-Ilk-Metot-Uygulamamiz\bin\Debug\net8.0\Pratik-Ilk-Metot-Uygulamamiz.pdb
+C:\Users\Orkun\source\repos\Pratik-Ilk-Metot-Uygulamamiz\Pratik-Ilk-Metot-Uygulamamiz\obj\Debug\net8.0\Pratik-Ilk-Metot-Uygulamamiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Pratik-Ilk-Metot-Uygulamamiz\Pratik-Ilk-Metot-Uygulamamiz\obj\Debug\net8.0\Pratik-Ilk-Metot-Uygulamamiz.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Ilk-Metot-Uygulamamiz\Pratik-Ilk-Metot-Uygulamamiz\obj\Debug\net8.0\Pratik-Ilk-Metot-Uygulamamiz.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Pratik-Ilk-Metot-Uygulamamiz\Pratik-Ilk-Metot-Uygulamamiz\obj\Debug\net8.0\Pratik-Ilk-Metot-Uygulamamiz.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Ilk-Metot-Uygulamamiz\Pratik-Ilk-Metot-Uygulamamiz\obj\Debug\net8.0\Pratik-Ilk-Metot-Uygulamamiz.dll
+C:\Users\Orkun\source\repos\Pratik-Ilk-Metot-Uygulamamiz\Pratik-Ilk-Metot-Uygulamamiz\obj\Debug\net8.0\refint\Pratik-Ilk-Metot-Uygulamamiz.dll
+C:\Users\Orkun\source\repos\Pratik-Ilk-Metot-Uygulamamiz\Pratik-Ilk-Metot-Uygulamamiz\obj\Debug\net8.0\Pratik-Ilk-Metot-Uygulamamiz.pdb
+C:\Users\Orkun\source\repos\Pratik-Ilk-Metot-Uygulamamiz\Pratik-Ilk-Metot-Uygulamamiz\obj\Debug\net8.0\Pratik-Ilk-Metot-Uygulamamiz.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Pratik-Ilk-Metot-Uygulamamiz\Pratik-Ilk-Metot-Uygulamamiz\obj\Debug\net8.0\ref\Pratik-Ilk-Metot-Uygulamamiz.dll
