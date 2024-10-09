@@ -20,7 +20,7 @@ class Program
     Ekrana sevdiğiniz bir şarkı sözünü yazdırsın. */
     static void SarkiSozu()
     {
-        Console.WriteLine("Bedenin özgür kalsa neye yarar?\r\nAcıtır ruhunu içinde kalanlar\r\nDönemezsin artık geriye\r\nTek yön seçtiğin tüm yollar");
+        Console.WriteLine("Seher vakti ılgıt ılgır eserken\r\nSeher vakti bir güzele vuruldum");
     }
 
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
